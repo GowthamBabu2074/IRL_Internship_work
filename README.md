@@ -2,4 +2,4 @@
 1. Task 1 contains the solutions of hacker rank python introduction questions.
 2. Task 2 contains the solutions of hacker rank python basic data types and sets questions
 3. Task 3 contains the solutions of hacker rank python math questions
-4. Task  contains the solutions of hacker rank python strings questions
+4. Task 4 contains the solutions of hacker rank python strings questions
