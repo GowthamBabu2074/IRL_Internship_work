@@ -7,3 +7,4 @@
 6. Task 6 contains the solutions of hacker rank python numpy questions
 7. Task 7 contains the soluttions for Task -1 (Descriptive statistics)
 8. Task 8 contains the solutions of some hacker rank statistics questions
+9. Task 9 contains the solutions of hypothesis testing task
