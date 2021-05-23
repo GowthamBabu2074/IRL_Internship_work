@@ -8,3 +8,4 @@
 7. Task 7 contains the soluttions for Task -1 (Descriptive statistics)
 8. Task 8 contains the solutions of some hacker rank statistics questions
 9. Task 9 contains the solutions of hypothesis testing task
+10. Task 10 contains the solutions of Task -2 (new)
